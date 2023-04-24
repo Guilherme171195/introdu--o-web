@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1c1c1c;
+    color: #ffffff;
+    font-family: monospace;
+   padding: 24px
+}
+
+.title{
+    font-size: 48px;
+    color: #00ff7f;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.list-item{
+    margin-bottom: 0px;
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+input{
+    height: 48px;
+    background-color: transparent;
+    color: white;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-color: #00ff7f;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.add-task-button{
+    height: 32px;
+    font-size: 16px;
+    padding: 8px;
+    background-color: #00ff7f;
+    border-width: 0;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+}
